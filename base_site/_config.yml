@@ -1,0 +1,34 @@
+title: IVI Spec Test
+description: Test by Alejandro Barreto
+permalink: pretty
+repository: IVIFoundation/ivifoundation.github.io
+plugins:
+  - jekyll-default-layout
+  - jekyll-gist
+  - jekyll-github-metadata
+  - jekyll-mentions
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-redirect-from
+  - jekyll-relative-links
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-titles-from-headings
+  - jemoji
+titles_from_headings:
+  enabled: true
+  strip_title: true
+  collections: true
+exclude:
+  - .github/
+  - .vscode/
+  - scripts/
+#remote_theme: tomjoht/documentation-theme-jekyll
+#remote_theme: vsoch/mkdocs-jekyll
+#remote_theme: just-the-docs/just-the-docs
+
+#remote_theme: rundocs/jekyll-rtd-theme
+theme: just-the-docs
+#remote_theme: vsoch/docsy-jekyll
