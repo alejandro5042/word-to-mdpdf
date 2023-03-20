@@ -1,4 +1,4 @@
-# Converts an Word doc to Markdown/PDF
+# Converts a Word doc to Markdown/PDF
 
 Such as specs like [IVI 3.1 Architecture](https://www.ivifoundation.org/downloads/Architecture%20Specifications/IVI-3.1_Architecture_2019-08-12.pdf).
 
